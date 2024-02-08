@@ -29,6 +29,16 @@ GIT - SVN
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
 
+> 깃을 사용해서 정보를 저장 : commit
+
+  git commit -m "저장하는 메세지(작업내용)"
+
+> 깃의 commit 기록 확인 
+ 
+  git log
+  git log --oneline --all --graph
+
+
 
 
 
