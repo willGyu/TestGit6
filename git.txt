@@ -22,7 +22,7 @@ GIT - SVN
  
  > git status  : 상태 확인
 
-> git add : 파일의 상태를 tracked 상태로 변경
+> git add : 파일의 상태를 tracked 상태로 변경 
 
 > 깃에 사용자 정보를 등록
 
@@ -38,6 +38,9 @@ GIT - SVN
   git log
   git log --oneline --all --graph
 
+> 깃 상태 변경(세이브 포인트 변경)
+  git checkout  커밋아이디
+  git checkout master
 
 
 
