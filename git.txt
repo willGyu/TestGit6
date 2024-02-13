@@ -47,4 +47,15 @@ GIT - SVN
 Q. 테스트 작업 중 (커밋 메세지 생성)
 
 
+* 원격 저장소를 추가 
+   git remote add origin 깃허브주소
+
+* 원격 저장소로 정보를 전달
+  git push origin master
+
+
+
+
+
+
 
